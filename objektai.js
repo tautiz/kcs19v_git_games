@@ -69,3 +69,6 @@ var klase = [
 ];
 
 console.log("Klasiokų kiekis: ", klase.length);
+klase.forEach(function(obj) {
+  console.log(obj.vardas);
+});
