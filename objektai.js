@@ -19,8 +19,8 @@ var klase = [
         vardas: "Imantas",
         banko_pin: 5537,
         amzius: 25,
-        vaikai: [
-            {vardas: "Pūkė"}
+        gyvunai: [
+            {gyvunas: "Pūkė"}
         ],
         adresas:{
             gatve: "Šalkauskio g.",
