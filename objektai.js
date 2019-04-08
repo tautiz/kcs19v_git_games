@@ -13,6 +13,21 @@ var klase = [
             miestas: 'Ilgakiemio km.',
             salis: "Lenkija"
         }
+    },
+    {
+        vardas: "Jolita",
+        banko_pin: 1521,
+        amzius: 35,
+        vaikai: [
+            {vardas: "Ema"}
+        ],
+        adresas:{
+            gatve: "Alyvu g.",
+            rajonas: "Kauno raj.",
+            namoNr: 13,
+            miestas: 'Smiltynu km.',
+            salis: "Lietuva"
+        }
     }
 ];
 
