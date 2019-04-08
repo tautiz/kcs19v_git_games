@@ -205,3 +205,9 @@ console.log("Klasiokų kiekis: ", klase.length);
 klase.forEach(function(obj) {
   console.log(obj.vardas);
 });
+
+
+for (var i=0; i<klase.length; i++) {
+    console.log(klase[i].vardas +" "+ klase[i].banko_pin);
+
+};
