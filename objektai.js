@@ -14,7 +14,7 @@ var klase = [
   },
   {
     vardas: "Romanas",
-    banko_pin: 1234123412341234,
+    banko_pin: 4321,
     amzius: 30,
     vaikai: [null],
     adresas: {
