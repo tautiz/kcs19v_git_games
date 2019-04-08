@@ -57,12 +57,11 @@ var klase = [
       namoNr: 777,
       miestas: "Ilgakiemio km.",
       salis: "Lenkija"
-
     }
   },
   {
     vardas: "Romanas",
-    banko_pin: 1234123412341234,
+    banko_pin: 4321,
     amzius: 30,
     vaikai: [null],
     adresas: {
