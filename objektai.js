@@ -30,6 +30,21 @@ var klase = [
         }
     },
     {
+        vardas: "Jolita",
+        banko_pin: 1521,
+        amzius: 35,
+        vaikai: [
+            {vardas: "Ema"}
+        ],
+        adresas:{
+            gatve: "Alyvu g.",
+            rajonas: "Kauno raj.",
+            namoNr: 13,
+            miestas: 'Smiltynu km.',
+            salis: "Lietuva"
+        }
+    },
+    {
         vardas: "Egidijus",
         banko_pin: 2545,
         amzius: 33,
