@@ -13,6 +13,21 @@ var klase = [
             miestas: 'Ilgakiemio km.',
             salis: "Lenkija"
         }
+    },
+    {
+        vardas: "Violeta",
+        amzius: 39,
+        vaikai: [
+            {vardas: "Egidijus"},
+            {vardas: "Emilija"},
+            {vardas: "Jonas"}
+        ],
+        adresas: {
+            gatve: "P.Plechavičiaus",
+            namoNr: 5,
+            miestas: "Kaunas",
+            salis: "Lietuva"
+        }
     }
 ];
 
