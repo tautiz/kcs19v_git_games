@@ -24,6 +24,19 @@ var klase = [
       miestas: "gatve",
       salis: "Lietuva"
     }
+  },
+  {
+    vardas: "Tautvydas 2",
+    banko_pin: 1234123412341234,
+    amzius: 30,
+    vaikai: [null],
+    adresas: {
+      gatve: "gatve",
+      rajonas: "Kauno",
+      namoNr: 15,
+      miestas: "gatve",
+      salis: "Lietuva"
+    }
   }
 ];
 
